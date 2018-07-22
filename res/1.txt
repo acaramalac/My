@@ -1,0 +1,5 @@
+1   Igor    Presnyakov
+2   Vladimir    Putin
+3   Vasilii     Pupkin
+4   Masha       Davalkina
+5   Senya       Ciorniy
